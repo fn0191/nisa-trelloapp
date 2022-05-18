@@ -1,0 +1,17 @@
+{
+  "boards": [],
+  "tasks": [],
+  "users": [
+    {
+      "email": "nisa@demo.com",
+      "password": "$2a$10$.URxmTbtP2EXHCLqZ8hjluFtHaWAr5ha7EAO74sCeDT62zfJapaaq",
+      "id": 1
+    },
+    {
+      "email": "nisa2@demo.com",
+      "password": "$2a$10$5f0fxlVtqxN3ndwNvWfA5uwRchjGhIKebk52G7Ty5kSVNuaAt4TZ.",
+      "id": 2
+    }
+  ],
+  "lists": []
+}
