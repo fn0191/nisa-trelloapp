@@ -12,5 +12,14 @@
   "supportFile": "cypress/support/index.ts",
   "video": false,
   "viewportHeight": 550,
-  "viewportWidth": 700
+  "viewportWidth": 700,
+
+  "reporter": "cypress-mochawesome-reporter",
+  "reporterOptions": {
+    "reportDir": "cypress/reports",
+    "charts": true,
+    "reportPageTitle": "My Test Suite",
+    "embeddedScreenshots": true,
+    "inlineAssets": true
+  }
 }

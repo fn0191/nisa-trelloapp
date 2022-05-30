@@ -1,6 +1,75 @@
 {
-  "boards": [],
-  "tasks": [],
+  "boards": [
+    {
+      "name": "nisa demo",
+      "user": 1,
+      "id": 22927357450,
+      "starred": false,
+      "created": "2022-05-28"
+    }
+  ],
+  "tasks": [
+    {
+      "boardId": 22927357450,
+      "description": "",
+      "completed": false,
+      "listId": 41986276560,
+      "title": "new task 1",
+      "id": 79680970972,
+      "created": "2022-05-28",
+      "deadline": "2022-05-31"
+    },
+    {
+      "boardId": 22927357450,
+      "description": "",
+      "completed": false,
+      "listId": 41986276560,
+      "title": "new task 1",
+      "id": 57595037379,
+      "created": "2022-05-30",
+      "deadline": "2022-06-02"
+    },
+    {
+      "boardId": 22927357450,
+      "description": "",
+      "completed": false,
+      "listId": 41986276560,
+      "title": "new task 1",
+      "id": 82101401957,
+      "created": "2022-05-30",
+      "deadline": "2022-06-02"
+    },
+    {
+      "boardId": 22927357450,
+      "description": "",
+      "completed": false,
+      "listId": 41986276560,
+      "title": "new task 1",
+      "id": 47395682562,
+      "created": "2022-05-30",
+      "deadline": "2022-06-02"
+    },
+    {
+      "boardId": 22927357450,
+      "description": "",
+      "completed": false,
+      "listId": 41986276560,
+      "title": "new task 1",
+      "id": 33200235045,
+      "created": "2022-05-30",
+      "deadline": "2022-06-02"
+    },
+    {
+      "boardId": 22927357450,
+      "description": "",
+      "completed": false,
+      "listId": 41986276560,
+      "title": "new task 1",
+      "id": 27095982148,
+      "created": "2022-05-30",
+      "deadline": "2022-06-02"
+    }
+  ],
   "users": [
     {
       "email": "nisa@demo.com",
@@ -13,5 +82,13 @@
       "id": 2
     }
   ],
-  "lists": []
+  "lists": [
+    {
+      "boardId": 22927357450,
+      "title": "item list 1",
+      "id": 41986276560,
+      "created": "2022-05-28",
+      "order": 0
+    }
+  ]
 }

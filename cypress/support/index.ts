@@ -11,3 +11,5 @@ beforeEach(() => {
   Cypress.env('users', []);
 
 });
+
+import 'cypress-mochawesome-reporter/register';
